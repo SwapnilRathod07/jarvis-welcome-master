@@ -26,8 +26,6 @@ bash rvt.sh
 
     
 ## [+] Find Me on : 
-#### Telegram :https://t.me/swapnil_sr
-#### telegram group :https://t.me/hacker_sr
-#### YouTube :https://m.youtube.com/channel/UCT1zDEnrv6WmS0TtqT3E6Ag
-#### Instagram : https://www.instagram.com/swapnil_rathodsr/
+#### YouTube :https://www.youtube.com/@technologysr07
+#### Instagram :https://www.instagram.com/@cyber.techx_07
 
